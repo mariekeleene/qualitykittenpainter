@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    background-color: blueviolet;
+}
+
+.Welcome>*{
+width: 4em;
+}
+
+.language>*{
+width: 4em;
+}
+
+.burgermenu>*{
+width: 4em; /* 4em size pixesls *}
+}
